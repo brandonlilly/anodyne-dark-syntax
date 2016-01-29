@@ -1,5 +1,5 @@
 {
-  "name": "one-dark-syntax",
+  "name": "dyne-dark-syntax",
   "theme": "syntax",
   "version": "1.1.2",
   "description": "A dark syntax theme",
@@ -8,7 +8,7 @@
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/brandonlilly/dyne-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
