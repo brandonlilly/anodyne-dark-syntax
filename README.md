@@ -1,11 +1,11 @@
-## Dyne Dark Syntax theme
+## Anodyne Dark Syntax
 
-<!-- ![one-dark-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png) -->
+Atom editor syntax theme. Fork of atom's [One Dark](https://atom.io/themes/one-dark-syntax).
 
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
+![anoydyne-ss](https://cloud.githubusercontent.com/assets/9450681/12700170/be527932-c794-11e5-931b-a0ad1de51d77.png)
 
-There is also a matching [UI theme](https://atom.io/themes/one-dark-ui).
+Screenshot uses [One Dark UI](https://atom.io/themes/one-dark-ui).
 
 ### Install
 
-This theme is installed by default with Atom and can be activated by going to the __Settings > Themes__ section and selecting it from the __Syntax Themes__ drop-down menu.
+Download and add anodyne-dark-syntax folder to your Atom package folder. To use, restart Atom (if open), navigate to __Settings > Themes__ section and select 'Anodyne Dark' from the __Syntax Themes__ drop-down menu.
